@@ -1,0 +1,121 @@
+{
+  "common": {
+    "getQuote": "Get Quote",
+    "learnMore": "Learn More",
+    "contactUs": "Contact Us",
+    "readMore": "Read More",
+    "viewAll": "View All",
+    "close": "Close",
+    "loading": "Loading...",
+    "submit": "Submit",
+    "required": "Required"
+  },
+  "navigation": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "careers": "Careers",
+    "testimonials": "Testimonials",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Superior Commercial Cleaning Services",
+    "subtitle": "Professional cleaning solutions for businesses in Quebec and Ontario. Eco-certified, experienced team, satisfaction guaranteed.",
+    "cta1": "Request Free Quote",
+    "cta2": "View Our Services",
+    "features": [
+      "24/7 service available",
+      "Certified and insured team",
+      "Eco-friendly products",
+      "Satisfaction guaranteed"
+    ]
+  },
+  "services": {
+    "title": "Our Commercial Cleaning Services",
+    "subtitle": "Complete cleaning solutions for all types of businesses",
+    "officeCleaningTitle": "Office Cleaning",
+    "officeCleaningDesc": "Daily, weekly, or monthly service to keep your workspace spotless.",
+    "buildingMaintenanceTitle": "Building Maintenance",
+    "buildingMaintenanceDesc": "Complete maintenance for commercial buildings, shopping centers, and industrial complexes.",
+    "postConstructionTitle": "Post-Construction Cleaning",
+    "postConstructionDesc": "Specialized cleaning after construction or renovation work.",
+    "endOfLeaseTitle": "End of Lease Cleaning",
+    "endOfLeaseDesc": "Complete service to recover your security deposit.",
+    "floorCareTitle": "Floor Care",
+    "floorCareDesc": "Cleaning, waxing, and protection for all types of flooring.",
+    "carpetCleaningTitle": "Carpet Cleaning",
+    "carpetCleaningDesc": "Professional cleaning of carpets, rugs, and upholstered furniture.",
+    "ecoServicesTitle": "Eco-Friendly Services",
+    "ecoServicesDesc": "Biodegradable products and environmentally friendly techniques."
+  },
+  "about": {
+    "title": "About Ajnetpro",
+    "subtitle": "Your trusted commercial cleaning partner for over 10 years",
+    "missionTitle": "Our Mission",
+    "missionDesc": "To provide superior commercial cleaning services while respecting the environment and creating healthy work environments.",
+    "visionTitle": "Our Vision",
+    "visionDesc": "To become Quebec's leader in eco-friendly commercial cleaning and technological innovation.",
+    "valuesTitle": "Our Values",
+    "values": [
+      "Excellence in every intervention",
+      "Environmental respect",
+      "Transparency and honesty",
+      "Continuous team training"
+    ]
+  },
+  "careers": {
+    "title": "Join Our Team",
+    "subtitle": "Discover career opportunities at Ajnetpro",
+    "whyWorkTitle": "Why Work With Us?",
+    "benefits": [
+      "Complete health insurance",
+      "Flexible schedules",
+      "Paid training",
+      "Advancement opportunities",
+      "Respectful work environment",
+      "Performance bonuses"
+    ],
+    "applyTitle": "Apply Now",
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone",
+    "position": "Desired Position",
+    "message": "Message / Experience",
+    "resume": "Attach Resume"
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "subtitle": "Authentic testimonials from our commercial partners",
+    "becomeClient": "Become a client"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get your free quote in less than 24 hours",
+    "formTitle": "Quote Request",
+    "name": "Name",
+    "company": "Company",
+    "email": "Email",
+    "phone": "Phone",
+    "service": "Desired Service",
+    "message": "Message",
+    "selectService": "Select a service",
+    "hours": "Opening Hours",
+    "mondayFriday": "Monday - Friday: 8:00 AM - 6:00 PM",
+    "saturday": "Saturday: 9:00 AM - 4:00 PM",
+    "sunday": "Sunday: Closed"
+  },
+  "footer": {
+    "slogan": "Commercial cleanliness without compromise",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Information",
+    "followUs": "Follow Us",
+    "newsletter": "Newsletter",
+    "newsletterPlaceholder": "Your email address",
+    "subscribe": "Subscribe",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "accessibility": "Accessibility",
+    "copyright": "© 2025 Ajnetpro - All rights reserved"
+  }
+}

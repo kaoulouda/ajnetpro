@@ -1,0 +1,119 @@
+{
+  "common": {
+    "getQuote": "Obtenir un devis",
+    "learnMore": "En savoir plus",
+    "contactUs": "Nous contacter",
+    "readMore": "Lire la suite",
+    "viewAll": "Voir tout",
+    "close": "Fermer",
+    "loading": "Chargement...",
+    "submit": "Envoyer",
+    "required": "Requis"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "services": "Services",
+    "about": "À propos",
+    "careers": "Carrières",
+    "testimonials": "Témoignages",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Entretien Commercial de Qualité Supérieure à Montréal",
+    "subtitle": "Experts en nettoyage commercial depuis 2014. Services professionnels pour entreprises québécoises. Certification ISO 9001, équipe expérimentée, garantie satisfaction 100%.",
+    "cta1": "Devis gratuit en 24h",
+    "cta2": "Découvrir nos services",
+    "features": [
+      "Service d'urgence 24/7",
+      "Équipe certifiée ASP Construction",
+      "Produits écologiques certifiés Écologo",
+      "Garantie satisfaction 100%"
+    ]
+  },
+  "services": {
+    "title": "Nos Services d'Entretien Commercial",
+    "subtitle": "Solutions complètes de nettoyage pour tous types d'entreprises",
+    "officeCleaningTitle": "Nettoyage de Bureaux",
+    "officeCleaningDesc": "Service quotidien, hebdomadaire ou mensuel pour maintenir vos espaces de travail impeccables.",
+    "buildingMaintenanceTitle": "Entretien d'Immeubles",
+    "buildingMaintenanceDesc": "Maintenance complète pour immeubles commerciaux, centres commerciaux et complexes industriels.",
+    "postConstructionTitle": "Nettoyage Post-Construction",
+    "postConstructionDesc": "Nettoyage spécialisé après travaux de construction ou rénovation.",
+    "endOfLeaseTitle": "Nettoyage de Fin de Bail",
+    "endOfLeaseDesc": "Service complet pour récupérer votre dépôt de garantie.",
+    "floorCareTitle": "Entretien de Planchers",
+    "floorCareDesc": "Nettoyage, cirage et protection pour tous types de revêtements de sol.",
+    "carpetCleaningTitle": "Nettoyage de Tapis",
+    "carpetCleaningDesc": "Nettoyage professionnel de tapis, moquettes et mobilier rembourré.",
+    "ecoServicesTitle": "Services Écologiques",
+    "ecoServicesDesc": "Produits biodégradables et techniques respectueuses de l'environnement."
+  },
+  "about": {
+    "title": "À Propos d'Ajnetpro",
+    "subtitle": "Votre partenaire de confiance en entretien commercial depuis plus de 10 ans",
+    "missionTitle": "Notre Mission",
+    "missionDesc": "Fournir des services d'entretien commercial de qualité supérieure tout en respectant l'environnement et en créant des environnements de travail sains.",
+    "visionTitle": "Notre Vision",
+    "visionDesc": "Devenir le leader québécois en entretien commercial écologique et innovation technologique.",
+    "valuesTitle": "Nos Valeurs",
+    "values": [
+      "Excellence dans chaque intervention",
+      "Respect de l'environnement",
+      "Transparence et honnêteté",
+      "Formation continue de nos équipes"
+    ]
+  },
+  "careers": {
+    "title": "Rejoignez Notre Équipe",
+    "subtitle": "Découvrez les opportunités de carrière chez Ajnetpro",
+    "whyWorkTitle": "Pourquoi Travailler Chez Nous?",
+    "benefits": [
+      "Assurance santé complète",
+      "Horaires flexibles",
+      "Formation payée",
+      "Opportunités d'avancement",
+      "Environnement de travail respectueux",
+      "Prime de performance"
+    ],
+    "applyTitle": "Postuler Maintenant",
+    "name": "Nom complet",
+    "email": "Adresse e-mail",
+    "phone": "Téléphone",
+    "position": "Poste désiré",
+    "message": "Message / Expérience",
+    "resume": "Joindre CV"
+  },
+  "testimonials": {
+    "title": "Ce Que Disent Nos Clients",
+    "subtitle": "Témoignages authentiques de nos partenaires commerciaux",
+    "becomeClient": "Devenir client"
+  },
+  "contact": {
+    "title": "Contactez-Nous",
+    "subtitle": "Obtenez votre devis gratuit en moins de 24 heures",
+    "formTitle": "Demande de Devis",
+    "name": "Nom",
+    "company": "Entreprise",
+    "email": "E-mail",
+    "phone": "Téléphone",
+    "service": "Service désiré",
+    "message": "Message",
+    "selectService": "Sélectionnez un service",
+    "hours": "Heures d'ouverture",
+    "mondayFriday": "Lundi - Vendredi: 8h00 - 18h00",
+    "saturday": "Samedi: 9h00 - 16h00",
+    "sunday": "Dimanche: Fermé"
+  },
+  "footer": {
+    "slogan": "Votre partenaire de confiance en entretien commercial à Montréal depuis 2014",
+    "quickLinks": "Navigation",
+    "contactInfo": "Nous joindre",
+    "newsletter": "Infolettre mensuelle",
+    "newsletterPlaceholder": "votre.email@entreprise.ca",
+    "subscribe": "S'abonner",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "accessibility": "Accessibilité",
+    "copyright": "© 2025 Ajnetpro - Entreprise québécoise | RBQ: 1234-5678-90"
+  }
+}
