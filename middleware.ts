@@ -6,6 +6,15 @@ const defaultLocale = 'fr';
 export function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname;
 
+  // Ignorer les fichiers statiques
+  if (
+    pathname.startsWith('/_next') ||
+    pathname.startsWith('/api') ||
+    pathname.includes('.') 
+  ) {
+    return;
+  }
+
   // Vérifier si le chemin commence déjà par une locale
   const pathnameHasLocale = locales.some(
     (locale) => pathname.startsWith(`/${locale}/`) || pathname === `/${locale}`
@@ -13,19 +22,17 @@ export function middleware(request: NextRequest) {
 
   if (pathnameHasLocale) return;
 
-  // Tenter de détecter la préférence de langue du navigateur
+  // Détecter la langue du navigateur
   const acceptLanguage = request.headers.get('accept-language') ?? '';
   const preferredLocale = locales.find((locale) =>
     acceptLanguage.toLowerCase().includes(locale)
   ) ?? defaultLocale;
 
   return NextResponse.redirect(
-    new URL(`/${preferredLocale}${pathname}`, request.url)
+    new URL(`/${preferredLocale}${pathname === '/' ? '' : pathname}`, request.url)
   );
 }
 
 export const config = {
-  matcher: [
-    '/((?!api|_next/static|_next/image|favicon.ico|sitemap.xml|robots.txt|og-image.jpg|apple-touch-icon.png).*)',
-  ],
+  matcher: ['/((?!_next/static|_next/image|favicon.ico|sitemap.xml|robots.txt).*)'],
 };
